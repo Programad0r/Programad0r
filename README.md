@@ -36,3 +36,12 @@
 
 ### “Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”
 Bill Gates
+
+### “Hoje a programação é uma corrida entre os engenheiros de software para tentar construir maiores e melhores programas à prova de idiotas, e o Universo tentando produzir maiores e melhores idiotas. Até agora, o Universo está ganhando.”
+Rich Cook
+
+### “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.”
+Martin Fowler
+
+### “Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.”
+Rafael Lain

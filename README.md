@@ -1,5 +1,5 @@
 
-### Olá! me chamo Gabriel, e sou um programador em constante evolução 🖥️
+### Hi! My name is Gabriel, and I'm a programmer in constant evolution🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programador-chess-6843431a2/)
 [![XDA](https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/programad0r.12093699/)
@@ -12,7 +12,7 @@
 ![Programad0r GitHub stats](https://github-readme-stats.vercel.app/api?username=Programad0r&show_icons=true&theme=dracula)
 
 
-## Tecnologias que eu utilizo no meu dia a dia
+## Technologies I use in my daily life
 
 <div style="display: inline_block"></br>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,14 +34,14 @@
        <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <div></br>
 
-### “Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”
+### “Measuring programming progress by lines of code is like measuring aircraft construction progress in terms of weight.
 Bill Gates
 
-### “Hoje a programação é uma corrida entre os engenheiros de software para tentar construir maiores e melhores programas à prova de idiotas, e o Universo tentando produzir maiores e melhores idiotas. Até agora, o Universo está ganhando.”
+### “Today, programming is a race between software engineers trying to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.”
 Rich Cook
 
-### “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.”
+### “Anyone can write code that the computer understands. Good programmers write code that humans understand.”
 Martin Fowler
 
-### “Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.”
+### “Programmers and artists are the only professionals who have their profession as a hobby.”
 Rafael Lain

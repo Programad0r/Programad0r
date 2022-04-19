@@ -1,5 +1,5 @@
 
-### Olá! me chamo Gabriel, e sou em programador em constante evolução 🖥️
+### Olá! me chamo Gabriel, e sou um programador em constante evolução 🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programador-chess-6843431a2/)
 [![XDA](https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/programad0r.12093699/)

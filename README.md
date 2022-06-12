@@ -1,4 +1,3 @@
-
 ### Hi! My name is Gabriel, and I'm a programmer in constant evolution🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programador-chess-6843431a2/)
@@ -10,6 +9,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programador_chess/)
 
 ![Programad0r GitHub stats](https://github-readme-stats.vercel.app/api?username=Programad0r&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programad0r&layout=compact=Programad0r&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Programad0r/github-readme-stats)
 
 
 ## Technologies I use in my daily life

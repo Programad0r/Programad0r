@@ -1,4 +1,4 @@
-### Hi! My name is Gabriel, and I'm a programmer in constant evolution🖥️
+### Hello world! My name is Gabriel and I am in search of the Turing Award🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programador-chess-6843431a2/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Programad0r)
@@ -8,8 +8,6 @@
 ![Programad0r GitHub stats](https://github-readme-stats.vercel.app/api?username=Programad0r&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programad0r&layout=compact=Programad0r&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Programad0r/github-readme-stats)
 
 
 ## Technologies I use in my daily life
@@ -29,14 +27,7 @@
         <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <div></br>
 
-### “Measuring programming progress by lines of code is like measuring aircraft construction progress in terms of weight.
-Bill Gates
-
 ### “Today, programming is a race between software engineers trying to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.”
 Rich Cook
 
-### “Anyone can write code that the computer understands. Good programmers write code that humans understand.”
-Martin Fowler
 
-### “Programmers and artists are the only professionals who have their profession as a hobby.”
-Rafael Lain
